@@ -1,9 +1,13 @@
+<#
+    .synopsis
+        importmapのに記述したパスの正常性確認
+ #>
 .{
     $APP_HOME  = (pwd).Path;
     $IMPORTMAP = Join-Path $APP_HOME "import_map.json"
 
     if(-not (Test-Path $IMPORTMAP)){
-        Write-Warning "[ $IMPORTMAP ] not Exists."
+        Write-Warning "[ $IMPORTMAP ] not exists."
         return
     }
 
