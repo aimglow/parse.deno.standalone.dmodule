@@ -1,0 +1,63 @@
+{
+  "Date": [
+    "Thu, 19 Jan 2023 19:58:51 GMT"
+  ],
+  "Connection": [
+    "keep-alive"
+  ],
+  "CF-Ray": [
+    "78c225c3f8d920a1-NRT"
+  ],
+  "Accept-Ranges": [
+    "bytes"
+  ],
+  "Access-Control-Allow-Origin": [
+    "*"
+  ],
+  "Age": [
+    "446"
+  ],
+  "Cache-Control": [
+    "public, max-age=86400"
+  ],
+  "Vary": [
+    "Origin",
+    "User-Agent"
+  ],
+  "CF-Cache-Status": [
+    "HIT"
+  ],
+  "Access-Control-Expose-Headers": [
+    "X-TypeScript-Types"
+  ],
+  "X-Content-Source": [
+    "workers-kv"
+  ],
+  "X-TypeScript-Types": [
+    "https://esm.sh/v103/twind@0.16.17/sheets/sheets.d.ts"
+  ],
+  "Report-To": [
+    "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=qsOPiXFl7WrPSS7xCrPqsGiw%2ByhYL8MnYRWqD60ELnrsmRTjszSoS5vSMjCyHVI658cGPYdVdxl4I9YK%2F35qm1S5wsmF0a6h2vto%2B62fXeqx78J%2B5HykG9c4js2aSa4TTN4sVl0%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+  ],
+  "NEL": [
+    "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+  ],
+  "Server": [
+    "cloudflare"
+  ],
+  "Alt-Svc": [
+    "h3=\":443\"",
+    "h3-29=\":443\""
+  ],
+  "Content-Type": [
+    "application/javascript; charset=utf-8"
+  ],
+  "Content-Length": [
+    "104"
+  ],
+  "Last-Modified": [
+    "Thu, 19 Jan 2023 19:51:25 GMT"
+  ],
+  "ModulePath": "C:\\Users\\dev\\.repos\\.inbox\\.labs\\fresh\\flesh-portable@1.1.2\\fresh.dev\\mods\\esm.sh\\twind@0.16.17\\sheets\\index.js",
+  "ModuleUrl": "https://esm.sh/twind@0.16.17/sheets"
+}

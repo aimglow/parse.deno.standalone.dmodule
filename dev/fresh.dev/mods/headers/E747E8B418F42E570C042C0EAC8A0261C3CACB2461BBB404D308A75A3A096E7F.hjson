@@ -1,0 +1,59 @@
+{
+  "Accept-Ranges": [
+    "bytes"
+  ],
+  "Access-Control-Allow-Origin": [
+    "*"
+  ],
+  "Age": [
+    "1295280"
+  ],
+  "X-Cache": [
+    "Hit from cloudfront"
+  ],
+  "Cache-Control": [
+    "public, max-age=31536000, immutable"
+  ],
+  "Content-Security-Policy": [
+    "default-src 'none'; style-src 'unsafe-inline'; sandbox"
+  ],
+  "Date": [
+    "Wed, 04 Jan 2023 20:10:53 GMT"
+  ],
+  "ETag": [
+    "\"6412d8cf213132cbee914ba72a6d087a\""
+  ],
+  "Server": [
+    "deno/gcp-asia-northeast1"
+  ],
+  "Vary": [
+    "Accept-Encoding",
+    "Origin"
+  ],
+  "Via": [
+    "http/1.1 edgeproxy-h"
+  ],
+  "x-amz-cf-id": [
+    "oyjikttDLQpppORBtm6hTWDYT6umOTH9tvYOxB0QH1reRFRgPFNRIg=="
+  ],
+  "x-amz-cf-pop": [
+    "NRT57-C1"
+  ],
+  "x-amz-replication-status": [
+    "COMPLETED"
+  ],
+  "x-amz-version-id": [
+    "zGkyDi6ZnQgQYVr1lbgThWL_T9QpjTIM"
+  ],
+  "Content-Length": [
+    "8132"
+  ],
+  "Content-Type": [
+    "application/typescript; charset=utf-8"
+  ],
+  "Last-Modified": [
+    "Mon, 20 Dec 2021 14:29:12 GMT"
+  ],
+  "ModulePath": "C:\\Users\\dev\\.repos\\.inbox\\.labs\\fresh\\flesh-portable@1.1.2\\fresh.dev\\mods\\deno.land\\x\\importmap@0.2.1\\mod.ts",
+  "ModuleUrl": "https://deno.land/x/importmap@0.2.1/mod.ts"
+}

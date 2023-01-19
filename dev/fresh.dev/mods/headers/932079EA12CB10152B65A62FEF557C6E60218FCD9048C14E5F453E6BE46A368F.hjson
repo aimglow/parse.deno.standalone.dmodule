@@ -1,0 +1,44 @@
+{
+  "Date": [
+    "Thu, 19 Jan 2023 19:58:56 GMT"
+  ],
+  "Transfer-Encoding": [
+    "chunked"
+  ],
+  "Connection": [
+    "keep-alive"
+  ],
+  "Access-Control-Allow-Origin": [
+    "*"
+  ],
+  "Cache-Control": [
+    "public, max-age=31536000, immutable"
+  ],
+  "Vary": [
+    "Origin"
+  ],
+  "X-Content-Source": [
+    "workers-kv"
+  ],
+  "Report-To": [
+    "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=AQ7yt3AZ4e4P4%2F9ysGu4tfs1MIXaEE1%2FVypTyElMMPmE2zC2lEXbgBUg5i9kxefWX4NIJ7NXI8tE4aTYH%2FJ3g8uCaq2yMiBpVL4Akbgzn8eyK9Q%2BfpUx8v%2FWnenLq0dMx%2FV5vHg%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+  ],
+  "NEL": [
+    "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+  ],
+  "Server": [
+    "cloudflare"
+  ],
+  "CF-RAY": [
+    "78c225e15e49f8af-NRT"
+  ],
+  "Alt-Svc": [
+    "h3=\":443\"",
+    "h3-29=\":443\""
+  ],
+  "Content-Type": [
+    "text/javascript; charset=utf-8"
+  ],
+  "ModulePath": "C:\\Users\\dev\\.repos\\.inbox\\.labs\\fresh\\flesh-portable@1.1.2\\fresh.dev\\mods\\esm.sh\\stable\\preact@10.11.0\\esnext\\jsx-runtime.js",
+  "ModuleUrl": "https://esm.sh/stable/preact@10.11.0/esnext/jsx-runtime.js"
+}

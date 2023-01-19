@@ -1,0 +1,53 @@
+{
+  "Date": [
+    "Thu, 19 Jan 2023 19:58:55 GMT"
+  ],
+  "Transfer-Encoding": [
+    "chunked"
+  ],
+  "Connection": [
+    "keep-alive"
+  ],
+  "CF-Ray": [
+    "78c225debdfeb009-NRT"
+  ],
+  "Access-Control-Allow-Origin": [
+    "*"
+  ],
+  "Age": [
+    "445"
+  ],
+  "Cache-Control": [
+    "public, max-age=31536000, immutable"
+  ],
+  "Vary": [
+    "Origin"
+  ],
+  "CF-Cache-Status": [
+    "HIT"
+  ],
+  "X-Content-Source": [
+    "workers-kv"
+  ],
+  "Report-To": [
+    "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=XN2xdWodrAnLxp9WOQkhAIagR79UuUO1FFbt9nwZRMnEZls5TW8zXxlwzeTTzyt9j6vRpXe5P9fZxVXR8BAFgRk%2BBxl8w16b1U0GGoTxpRLIF34He5oWWcPi9oBlY3wCBquthTE%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+  ],
+  "NEL": [
+    "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+  ],
+  "Server": [
+    "cloudflare"
+  ],
+  "Alt-Svc": [
+    "h3=\":443\"",
+    "h3-29=\":443\""
+  ],
+  "Content-Type": [
+    "text/javascript; charset=utf-8"
+  ],
+  "Last-Modified": [
+    "Thu, 19 Jan 2023 19:51:30 GMT"
+  ],
+  "ModulePath": "C:\\Users\\dev\\.repos\\.inbox\\.labs\\fresh\\flesh-portable@1.1.2\\fresh.dev\\mods\\esm.sh\\stable\\preact@10.11.0\\esnext\\preact.js",
+  "ModuleUrl": "https://esm.sh/stable/preact@10.11.0/esnext/preact.js"
+}
